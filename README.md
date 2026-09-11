@@ -144,8 +144,7 @@ Flutter & Dart
 Problem Solving
         ↓
 Data Structures & Algorithms
-
----
+```
 
 ---
 
